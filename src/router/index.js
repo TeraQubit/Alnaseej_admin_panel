@@ -11,11 +11,11 @@ export default new Router({
 
         // Dashboards
 
-        {
-            path: '/',
-            name: 'analytics',
-            component: () => import('../DemoPages/Dashboards/Analytics.vue'),
-        },
+   //     {
+    //        path: '/',
+    //        name: 'analytics',
+    //        component: () => import('../DemoPages/Dashboards/Analytics.vue'),
+   //     },
 
         // Pages
 
