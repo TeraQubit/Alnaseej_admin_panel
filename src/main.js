@@ -13,7 +13,7 @@ Vue.config.productionTip = false;
 
 Vue.use(BootstrapVue);
 Vue.prototype.$http =  axios.create({
-  baseURL: `http://135.181.36.3:8055`,
+  baseURL: `http://66.29.135.86:8055`,
   });
 
 Vue.component('default-layout', Default);
